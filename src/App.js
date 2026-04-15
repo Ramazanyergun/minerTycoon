@@ -1,4 +1,3 @@
-import React, { useState, useEffect, use } from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Container, Row, Col, Button } from 'react-bootstrap';
 import { MINER_TEMPLATES } from './Interfaces/MinerTypes';
